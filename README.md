@@ -1,4 +1,4 @@
 # LAB1
 prima riga
-\nseconda riga
+seconda riga
 terza riga
